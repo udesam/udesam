@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @udesam
+- 👋 Hi, I’m Uduakobong Sam
 - 👀 I’m interested in software Testing 
 - 🌱 I’m currently learning the types of testing and various tools used in software testing
 - 💞️ I’m looking to collaborate on ...
